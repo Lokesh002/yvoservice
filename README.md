@@ -1,6 +1,6 @@
 # yvoservice
 
-services for 2 wheeler.
+services for 2 wheeler. Frontend APK only with quality UI theme.
 
 ## Getting Started
 
